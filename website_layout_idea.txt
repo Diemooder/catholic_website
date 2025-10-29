@@ -1,0 +1,35 @@
+Here I lay out the different webpages that I intend to add to the project, each one has a structure of what I want to include.
+They will be added in an ordered manner, as in the order they will appear when scrolled, top to bottom.
+
+SYNTAX USED FOR WRITING:
+> webpage name
+    >> sections of a webpage
+        >>> elements of a section
+            (comments by me)
+            unsure of addition?
+    
+
+START
+
+> Homepage
+    >> Navigation Bar
+        >>> Links to other webpages such as "Road Map", "Q&A", "Discussions", "Contact" (These webpages may not be final)
+        >>> Language selection (Guaranteed to add: English, Spanish, Korean and Japanese, as I know these)
+    >> Greeting Screen
+        >>> Title with something engaging
+        >>> Brief description of the objective
+        >>> Button to start right away (maybe link to Road Map)
+        >>> Background Image?
+    >> Personal Inquiries
+        >>> Multiple questions that could be asked to a catholic such as "Is there a God?", "Why Catholicism and not Protestantism?", "Why do I exist?", etc.
+            (This part is meant to be like a collection of possible quesitons the reader might have, questions that the website will answer systematically)
+    >> Discovery Method
+        >>> Brief description of the method that will be used (From the ground up, first believe that there is a God, then that Christianity is True, then that Catholicism is true)
+        >>> Intuitive picture with it?
+> Road Map
+> Q&A
+> Contact
+
+END
+
+*THIS IS A WORK IN PROGRESS, I WILL FILL IT AS I COME UP WITH IDEAS
